@@ -1,2 +1,1 @@
-"# GoldSystem" 
-oljdfg;jkoengoljd
+"# GoldSystem"
