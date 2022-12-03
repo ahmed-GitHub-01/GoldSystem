@@ -13,3 +13,13 @@ D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.vbproj.CopyComplete
 D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.exe
 D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.xml
 D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.pdb
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\ar-KW\GoldSystem.resources.dll
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\en-US\GoldSystem.resources.dll
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.SettingFile.resources
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.SettingFile.ar-KW.resources
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.SettingFile.en-US.resources
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\ar-KW\GoldSystem.resources.dll
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\en-US\GoldSystem.resources.dll
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\ar\GoldSystem.resources.dll
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.FrmLogin.ar.resources
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\ar\GoldSystem.resources.dll

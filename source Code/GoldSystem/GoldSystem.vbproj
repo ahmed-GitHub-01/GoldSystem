@@ -87,6 +87,12 @@
       <DependentUpon>FrmLogin.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Login\Forms\SettingFile.Designer.vb">
+      <DependentUpon>SettingFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Forms\SettingFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -104,8 +110,20 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Login\Forms\FrmLogin.ar.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login\Forms\FrmLogin.resx">
       <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Forms\SettingFile.ar-KW.resx">
+      <DependentUpon>SettingFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Forms\SettingFile.en-US.resx">
+      <DependentUpon>SettingFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Forms\SettingFile.resx">
+      <DependentUpon>SettingFile.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
