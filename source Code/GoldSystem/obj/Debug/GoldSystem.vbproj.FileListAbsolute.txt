@@ -1,0 +1,15 @@
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\GoldSystem.exe.config
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\GoldSystem.exe
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\GoldSystem.pdb
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\GoldSystem.xml
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\Bunifu_UI_v1.52.dll
+D:\GoldSystem\source Code\GoldSystem\bin\Debug\Guna.UI.dll
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.vbprojAssemblyReference.cache
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.FrmLogin.resources
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.Resources.resources
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.vbproj.GenerateResource.cache
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.vbproj.CoreCompileInputs.cache
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.vbproj.CopyComplete
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.exe
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.xml
+D:\GoldSystem\source Code\GoldSystem\obj\Debug\GoldSystem.pdb
