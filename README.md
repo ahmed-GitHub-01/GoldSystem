@@ -1,2 +1,2 @@
 "# GoldSystem"
-klsdfjbo;asfgnlanfgkpnrg;knasf;gnkasrgfasgasdfg
+fffffffffffff
