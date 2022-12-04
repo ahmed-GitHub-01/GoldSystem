@@ -3,7 +3,7 @@ Imports DT_restrant.My
 
 Public Class ConnectionClass
       Sub New()
-       SQLCON_TELE = New SqlConnection("")
+       SQLCON_TELE = New SqlConnection("Server = .\\GOLD; initial catalog = GoldDB; user ID = sa; password = Admin@123")
     End Sub
     Public Sub OPEN_CON()
         If SQLCON_TELE.State = ConnectionState.Closed Then
