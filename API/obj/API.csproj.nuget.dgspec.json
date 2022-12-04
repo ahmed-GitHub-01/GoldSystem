@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GoldSystem\\API\\API.csproj": {}
+    "C:\\Source Code\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\GoldSystem\\API\\API.csproj": {
+    "C:\\Source Code\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GoldSystem\\API\\API.csproj",
+        "projectUniqueName": "C:\\Source Code\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\GoldSystem\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\GoldSystem\\API\\obj\\",
+        "projectPath": "C:\\Source Code\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Source Code\\API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +41,20 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
             },
