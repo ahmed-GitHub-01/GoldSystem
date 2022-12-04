@@ -2,11 +2,9 @@
 Imports DT_restrant.My
 
 Public Class ConnectionClass
-    Public SQL_GET_CONNC As String = My.MySettings.Default.DT_restrantConnectionString10
-    Dim SQLCON_TELE As New SqlConnection(SQL_GET_CONNC)
-    'Sub New()
-    '    SQLCON_TELE = New SqlConnection(SQL_GET_CONNC)
-    'End Sub
+      Sub New()
+       SQLCON_TELE = New SqlConnection("")
+    End Sub
     Public Sub OPEN_CON()
         If SQLCON_TELE.State = ConnectionState.Closed Then
             SQLCON_TELE.Open()
