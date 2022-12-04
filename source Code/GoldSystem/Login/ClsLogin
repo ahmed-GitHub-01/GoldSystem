@@ -1,3 +1,5 @@
 Public Class ClsLogin
-
+  Public Function Login
+      Dim Con as new 
+  End Function
 End Class
